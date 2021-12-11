@@ -133,6 +133,11 @@ main {
     color: #DB7093;
 }
 
+.box .des a{
+    text-decoration: none;
+    color: black;
+}
+
 main {
     background: url(./Images/div.jpg);
 }
